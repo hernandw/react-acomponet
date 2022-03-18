@@ -14,3 +14,21 @@
     height: 100%;
     width: 100%;
 }
+
+.container-texto-testimony {
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.title-testomony {
+    font-size: 1.3rem;
+}
+
+.job-testimony {
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
